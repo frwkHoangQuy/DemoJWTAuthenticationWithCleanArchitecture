@@ -11,3 +11,4 @@ C:\Users\QUY\source\repos\DemoJWTAuthenticationWithCleanArchitecture\Domain\obj\
 C:\Users\QUY\source\repos\DemoJWTAuthenticationWithCleanArchitecture\Domain\obj\Debug\net8.0\ref\Domain.dll
 C:\Users\QUY\source\repos\DemoJWTAuthenticationWithCleanArchitecture\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
 C:\Users\QUY\source\repos\DemoJWTAuthenticationWithCleanArchitecture\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\QUY\source\repos\DemoJWTAuthenticationWithCleanArchitecture\Domain\obj\Debug\net8.0\Domain.sourcelink.json

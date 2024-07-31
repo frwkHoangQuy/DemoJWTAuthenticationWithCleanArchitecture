@@ -165,9 +165,6 @@
             "projectReferences": {
               "C:\\Users\\QUY\\source\\repos\\DemoJWTAuthenticationWithCleanArchitecture\\Application\\Application.csproj": {
                 "projectPath": "C:\\Users\\QUY\\source\\repos\\DemoJWTAuthenticationWithCleanArchitecture\\Application\\Application.csproj"
-              },
-              "C:\\Users\\QUY\\source\\repos\\DemoJWTAuthenticationWithCleanArchitecture\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\QUY\\source\\repos\\DemoJWTAuthenticationWithCleanArchitecture\\Domain\\Domain.csproj"
               }
             }
           }
@@ -190,6 +187,14 @@
             "BCrypt.Net-Next": {
               "target": "Package",
               "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",

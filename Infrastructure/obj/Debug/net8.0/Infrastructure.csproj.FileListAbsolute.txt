@@ -17,3 +17,4 @@ C:\Users\QUY\source\repos\DemoJWTAuthenticationWithCleanArchitecture\Infrastruct
 C:\Users\QUY\source\repos\DemoJWTAuthenticationWithCleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
 C:\Users\QUY\source\repos\DemoJWTAuthenticationWithCleanArchitecture\Infrastructure\bin\Debug\net8.0\Application.dll
 C:\Users\QUY\source\repos\DemoJWTAuthenticationWithCleanArchitecture\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\QUY\source\repos\DemoJWTAuthenticationWithCleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
